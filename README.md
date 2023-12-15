@@ -1,5 +1,3 @@
-# linuxcommands
-Linux Commands Handbook
 # sample markdown text ## Update Your System 
 - sudo apt update
 - sudo apt upgrade
